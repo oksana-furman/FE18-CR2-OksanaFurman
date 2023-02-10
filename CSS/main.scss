@@ -1,0 +1,27 @@
+.hero {
+    height: 25rem;
+    overflow: hidden;
+    #hero {
+        width: 100%;
+        margin-top: -16rem;
+    }
+}
+
+.input-group-text {
+    padding-left: 20px;
+    padding-right: 20px;
+    p {
+        // margin-left: 20px;
+        margin-right: 20px;
+        margin-top: 15px;
+    }
+    button {
+        margin-left: 20px;
+        // margin-right: 20px; 
+    }
+}
+
+
+
+
+@import "media.scss";

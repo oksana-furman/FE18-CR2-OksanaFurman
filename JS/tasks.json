@@ -1,0 +1,64 @@
+tasks = `[{
+    "title": "Homework",
+    "image": "",
+    "description": "Javascript day 7 pre-work.",
+    "importance": "4",
+    "duration": "1 hour", 
+    "frequency": "weekdays"
+}, {
+    "title": "Grocery shopping",
+    "image": "",
+    "description": "Need to buy food for next week. This week: vegetables, couscous, chicken, milk,  cream, toast bread, dark chocolate, sugar, flour, cocoa powder, kefir",
+    "importance": "5",
+    "duration": "1 hour", 
+    "frequency": "every weekend"
+}, {
+    "title": "Cooking",
+    "image": "",
+    "description": "Cooking food for next week. This week: fried chicken with vegetables, couscous, cake",
+    "importance": "5",
+    "duration": "3 hours", 
+    "frequency": "every weekend"
+}, {
+    "title": "Laundry list",
+    "image": "",
+    "description": "Sign up for 2 hours. Preferably for Friday",
+    "importance": "3",
+    "duration": "5 minutes", 
+    "frequency": "once a week"
+}, {
+    "title": "Clean the room",
+    "image": "",
+    "description": "My turn to clean the room. Don't forget to water the plant",
+    "importance": "0",
+    "duration": "1 hour", 
+    "frequency": "once a week"
+}, {
+    "title": "Gym",
+    "image": "",
+    "description": "Exercises for arms, legs and chest",
+    "importance": "3",
+    "duration": "2 hours", 
+    "frequency": "3 days a week"
+}, {
+    "title": "Listen to an audiobook",
+    "image": "",
+    "description": "",
+    "importance": "1",
+    "duration": "", 
+    "frequency": "every day"
+}, {
+    "title": "Go to the cinema",
+    "image": "",
+    "description": "",
+    "importance": "2",
+    "duration": "", 
+    "frequency": ""
+}, {
+    "title": "Build a shelf",
+    "image": "",
+    "description": "Watch Christoph build a shelf",
+    "importance": "1",
+    "duration": "2 hours", 
+    "frequency": "every once in awhile"
+}]`;
