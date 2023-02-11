@@ -8,28 +8,28 @@ tasks = `[{
 }, {
     "title": "Grocery shopping",
     "image": "",
-    "description": "Need to buy food for next week. This week: vegetables, couscous, chicken, milk,  cream, toast bread, dark chocolate, sugar, flour, cocoa powder, kefir",
+    "description": "Need to buy food for next week",
     "importance": "5",
     "duration": "1 hour", 
     "frequency": "every weekend"
 }, {
     "title": "Cooking",
     "image": "",
-    "description": "Cooking food for next week. This week: fried chicken with vegetables, couscous, cake",
+    "description": "Cooking food for next week",
     "importance": "5",
     "duration": "3 hours", 
     "frequency": "every weekend"
 }, {
     "title": "Laundry list",
     "image": "",
-    "description": "Sign up for 2 hours. Preferably for Friday",
+    "description": "Sign up for 2 hours for Friday",
     "importance": "3",
     "duration": "5 minutes", 
     "frequency": "once a week"
 }, {
     "title": "Clean the room",
     "image": "",
-    "description": "My turn to clean the room. Don't forget to water the plant",
+    "description": "My turn to clean the room",
     "importance": "0",
     "duration": "1 hour", 
     "frequency": "once a week"
@@ -43,16 +43,16 @@ tasks = `[{
 }, {
     "title": "Listen to an audiobook",
     "image": "",
-    "description": "",
+    "description": "A.Kuprin - Olesya",
     "importance": "1",
-    "duration": "", 
+    "duration": "3 hours", 
     "frequency": "every day"
 }, {
     "title": "Go to the cinema",
     "image": "",
-    "description": "",
+    "description": "Everything Everywhere All at Once",
     "importance": "2",
-    "duration": "", 
+    "duration": "2 hours 20 minutes", 
     "frequency": ""
 }, {
     "title": "Build a shelf",
