@@ -32,8 +32,8 @@ for (let val of allTasks) {
             </div>
             <hr>
             <div class="text-end p-1" style="position: relative; bottom: 5px; right: 1px">
-                <a href="#" class="btn btn-danger delete">Delete</a>
-                <a href="#" class="btn btn-success done">Done</a>
+            <button class="btn btn-danger delete">Delete</button>
+            <button class="btn btn-success done">Done</button>
             </div>
         </div>
     </div>
