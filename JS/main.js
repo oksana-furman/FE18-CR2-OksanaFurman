@@ -15,7 +15,6 @@ for (let val of allTasks) {
 
     //card, displayed on the page with data from json file. it has 3 buttons with events: 1st button(class="btnPriority") when clicked changes number and color. 2nd button(class="btn btn-danger delete") when clicked removes the card. 3rd button(class="btn btn-success done") when clicked disables the card and hides the button.
     document.getElementById("box").innerHTML += `
-    <div>
     <div class="card m-3 everyCard" id="cardId" style="width: 21rem; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
         <img src="./img/blank-papwer-pen.jpg" class="card-img-top" style="height: 40%; width: 100%" alt="${val.title}">
         <div class="card-body">
@@ -36,7 +35,6 @@ for (let val of allTasks) {
             <button class="btn btn-success done">Done</button>
             </div>
         </div>
-    </div>
     </div>
     `;
 }
