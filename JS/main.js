@@ -63,13 +63,16 @@ for (let i = 0; i < btnsPrior.length; i++) {
 }
 
 //add event to the delete button - click removes card from the page
+// how do i get rid of the line after deleting??
 function btnsDelete() {
     let btnDel = document.getElementsByClassName("delete");
     let cardArr = document.getElementsByClassName("everyCard");
-
+    // let newArr = [];
     for (let i = 0; i < btnDel.length; i++) {
         btnDel[i].addEventListener("click", function() {
-            cardArr[i].innerHTML = "";
+            cardArr[i].style = "display: none";
+            // cardArr[i].innerHTML = "";
+            // cardArr[i].innerHTML = newArr;
         })
     }
 }
