@@ -17,7 +17,7 @@ for (let val of allTasks) {
     document.getElementById("box").innerHTML += `
     <div>
     <div class="card m-3 everyCard" id="cardId" style="width: 21rem; box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);">
-        <img src="/img/blank-papwer-pen.jpg" class="card-img-top" style="height: 40%; width: 100%" alt="${val.title}">
+        <img src="img/blank-papwer-pen.jpg" class="card-img-top" style="height: 40%; width: 100%" alt="${val.title}">
         <div class="card-body">
             <h5 class="card-title text-center">${val.title}</h5>
             <p class="card-text text-center">${val.description}</p>
