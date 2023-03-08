@@ -17,7 +17,7 @@ tasks = `[{
     "title": "Laundry",
     "description": "Finish all laundry before Friday",
     "importance": "0",
-    "duration": "5 minutes"
+    "duration": "2 hours"
 }, {
     "title": "Clean the room",
     "description": "My turn to clean the room",
